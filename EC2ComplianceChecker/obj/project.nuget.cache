@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "fcYQV089l9abd4raKhRlPpto6XkTaEqrkrQI8cUeJ5szGmAwpqO1pzaAzbjq+MJiDrJkoeJ5z2BNxx6hX8MCxw==",
+  "success": true,
+  "projectFilePath": "C:\\EC2ComplianceChecker\\EC2ComplianceChecker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\efrati\\.nuget\\packages\\awssdk.core\\3.7.400.61\\awssdk.core.3.7.400.61.nupkg.sha512",
+    "C:\\Users\\efrati\\.nuget\\packages\\awssdk.simplesystemsmanagement\\3.7.403.5\\awssdk.simplesystemsmanagement.3.7.403.5.nupkg.sha512",
+    "C:\\Users\\efrati\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\efrati\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.0\\microsoft.extensions.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\efrati\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\efrati\\.nuget\\packages\\moq\\4.20.72\\moq.4.20.72.nupkg.sha512",
+    "C:\\Users\\efrati\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
